@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: ac4812a587967aa489fd9da9263b24ab
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_male_dwarfmale_hd_0
+    second: {fileID: 2100000, guid: c878911185c632043b57b519ac06004d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_male_dwarfmale_hd_108
+    second: {fileID: 2100000, guid: 623f1f237c9908f4db00a2b4c3fbb4c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_male_dwarfmale_hd_109
+    second: {fileID: 2100000, guid: 37a83eaf49db3c540808b87493588d6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_male_dwarfmale_hd_110
+    second: {fileID: 2100000, guid: a65d7c9594d6e1f429883c2be1448740, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_male_dwarfmale_hd_112
+    second: {fileID: 2100000, guid: 169947e4eccfab04291cf94cbee5c212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_male_dwarfmale_hd_118
+    second: {fileID: 2100000, guid: 169947e4eccfab04291cf94cbee5c212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_male_dwarfmale_hd_120
+    second: {fileID: 2100000, guid: 169947e4eccfab04291cf94cbee5c212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_male_dwarfmale_hd_18
+    second: {fileID: 2100000, guid: c878911185c632043b57b519ac06004d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_male_dwarfmale_hd_23
+    second: {fileID: 2100000, guid: c878911185c632043b57b519ac06004d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_male_dwarfmale_hd_28
+    second: {fileID: 2100000, guid: c878911185c632043b57b519ac06004d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_male_dwarfmale_hd_38
+    second: {fileID: 2100000, guid: c878911185c632043b57b519ac06004d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_male_dwarfmale_hd_49
+    second: {fileID: 2100000, guid: c878911185c632043b57b519ac06004d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_male_dwarfmale_hd_50
+    second: {fileID: 2100000, guid: c878911185c632043b57b519ac06004d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_male_dwarfmale_hd_88
+    second: {fileID: 2100000, guid: a65d7c9594d6e1f429883c2be1448740, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_dwarf_male_dwarfmale_hd_92
+    second: {fileID: 2100000, guid: a65d7c9594d6e1f429883c2be1448740, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: item_objectcomponents_head_helm_mail_raidhunter_p_01_dwm_0
+    second: {fileID: 2100000, guid: 16e6dcee38e0dde4ea7396440419917e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: item_objectcomponents_head_helm_mail_raidhunter_p_01_dwm_1
+    second: {fileID: 2100000, guid: ecbf585ca7c9de04083be37bc7c72e3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: item_objectcomponents_waist_buckle_mail_draenorhonors2_c_01_0
+    second: {fileID: 2100000, guid: 5e472f88fd9f09145a6d8e80634cb76e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: item_objectcomponents_weapon_firearm_2h_rifle_draenorhonor_c_01_0
+    second: {fileID: 2100000, guid: dea6fcf3d689004419f772f4c88644a8, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

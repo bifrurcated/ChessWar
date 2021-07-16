@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 9aad4723a8468314f89ceb8e4c024ecf
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_bloodelf_male_bloodelfmale_hd_0
+    second: {fileID: 2100000, guid: e724369ce478286418138c291ce7d689, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_bloodelf_male_bloodelfmale_hd_1
+    second: {fileID: 2100000, guid: 5d711de778e8a8e4fbd94be87b4584c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_bloodelf_male_bloodelfmale_hd_3
+    second: {fileID: 2100000, guid: 5d711de778e8a8e4fbd94be87b4584c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_bloodelf_male_bloodelfmale_hd_35
+    second: {fileID: 2100000, guid: e724369ce478286418138c291ce7d689, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_bloodelf_male_bloodelfmale_hd_38
+    second: {fileID: 2100000, guid: e724369ce478286418138c291ce7d689, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_bloodelf_male_bloodelfmale_hd_44
+    second: {fileID: 2100000, guid: e724369ce478286418138c291ce7d689, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_bloodelf_male_bloodelfmale_hd_57
+    second: {fileID: 2100000, guid: e724369ce478286418138c291ce7d689, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_bloodelf_male_bloodelfmale_hd_62
+    second: {fileID: 2100000, guid: e724369ce478286418138c291ce7d689, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_bloodelf_male_bloodelfmale_hd_63
+    second: {fileID: 2100000, guid: e724369ce478286418138c291ce7d689, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_bloodelf_male_bloodelfmale_hd_65
+    second: {fileID: 2100000, guid: e724369ce478286418138c291ce7d689, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: character_bloodelf_male_bloodelfmale_hd_74
+    second: {fileID: 2100000, guid: 8508ab90b6e264943a0ec119ffab324e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: item_objectcomponents_head_helm_cloth_bloodelfguard_d_01_be_m_0
+    second: {fileID: 2100000, guid: 8475ee04ba720b448a9f85ed2d271ce6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: item_objectcomponents_shoulder_shoulder_cloth_bloodelfguard_d_01_l_0
+    second: {fileID: 2100000, guid: 5401ad72cea93a04d81503e0e5540e26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: item_objectcomponents_shoulder_shoulder_cloth_bloodelfguard_d_01_r_0
+    second: {fileID: 2100000, guid: 5401ad72cea93a04d81503e0e5540e26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: item_objectcomponents_waist_buckle_cloth_bloodelfguard_d_01_0
+    second: {fileID: 2100000, guid: d2dc5482601bcbb46b8c622c85c94d94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: item_objectcomponents_weapon_bow_1h_northrend_b_02_0
+    second: {fileID: 2100000, guid: 72590ada466e8b742bb422216eaf3778, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: item_objectcomponents_weapon_bow_1h_northrend_b_02_1
+    second: {fileID: 2100000, guid: 72590ada466e8b742bb422216eaf3778, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
